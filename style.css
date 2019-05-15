@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+body .titre {
+  margin-top: 30vh;
+  text-align: center;
+}
+
+h1.big {
+  font-size: 200px;
+}
